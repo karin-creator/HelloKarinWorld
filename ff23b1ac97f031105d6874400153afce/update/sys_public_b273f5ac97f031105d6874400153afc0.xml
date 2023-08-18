@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_public">
+    <sys_public action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <page>HelloKarinPage</page>
+        <sys_class_name>sys_public</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-08-18 12:45:40</sys_created_on>
+        <sys_id>b273f5ac97f031105d6874400153afc0</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>HelloKarinPage</sys_name>
+        <sys_package display_value="HelloKarinWorld" source="x_1112931_woka">ff23b1ac97f031105d6874400153afce</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="HelloKarinWorld">ff23b1ac97f031105d6874400153afce</sys_scope>
+        <sys_update_name>sys_public_b273f5ac97f031105d6874400153afc0</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-08-18 12:45:40</sys_updated_on>
+    </sys_public>
+</record_update>
